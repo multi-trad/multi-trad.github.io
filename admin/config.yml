@@ -6,7 +6,7 @@ public_folder: "/assets/img"
 collections:
   - name: "sections"
     label: "Sections"
-    folder: ""
+    folder: "/"
     create: true
     nested:
       depth: 100 # max depth to show in the collection tree
